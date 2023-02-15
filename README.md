@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Привет!</h1>
+<h2>Я Евгений Бровка, разработчик</h2>
+
+
+<h3 align="left">Что умею:</h3>
+<ul>
+	<li>Python</li>
+	<li>C#</li>
+	<li>SQL <a href="">C</a></li>
+</ul>
 [![codewars](https://www.codewars.com/users/Darkstrog/badges/small)](https://www.codewars.com/users/Darkstrog)
 <!--
 **darkstrog/darkstrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
