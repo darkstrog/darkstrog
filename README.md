@@ -1,11 +1,25 @@
-<h1 align="left">Привет!</h1>
-<h2>Я Евгений Бровка, разработчик</h2>
-<h3 align="left">Что умею:</h3>
-<ul>
-	<li>Python</li>
-	<li>C#</li>
-	<li>SQL <a href="">C</a></li>
-</ul>
+### Привет!
+
+Я <b>Бровка Евгений</b>, разработчик.
+
+
+### Вот, что я умею
+
+- Python. [Репозиторий с дипломной работой](https://github.com/darkstrog/PyDiploma)
+
+- SQL postgres.
+
+- HTML. [Итоговая работа по верстке](https://github.com/darkstrog/layout_final_paper)
+
+- C#, MVVM, XAML, .net core 3.1 (https://github.com/darkstrog/VCardManager)
+
+- C#, MVC, .net core 2.2[Тестовое задание](https://github.com/darkstrog/Test)
+
+
+### Диплом Нетологии
+
+- Python https://github.com/darkstrog/darkstrog/blob/main/IMG_20230209_151546.jpg
+
 [![codewars](https://www.codewars.com/users/Darkstrog/badges/small)](https://www.codewars.com/users/Darkstrog)
 <!--
 **darkstrog/darkstrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
