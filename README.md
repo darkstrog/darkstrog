@@ -20,7 +20,7 @@
 
 - Python https://github.com/darkstrog/darkstrog/blob/main/IMG_20230209_151546.jpg
 
-[![codewars](https://www.codewars.com/users/Darkstrog/badges/small)](https://www.codewars.com/users/Darkstrog)
+
 <!--
 **darkstrog/darkstrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
