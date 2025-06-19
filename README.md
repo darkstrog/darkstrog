@@ -5,15 +5,17 @@
 
 ### Вот, что я умею
 
-- Python, vk_api [Репозиторий с дипломной работой](https://github.com/darkstrog/PyDiploma)
+- C#, Web API, .net core 9 [Учет содержимого коробок](https://github.com/darkstrog/BlackBoxCheckApi)
 
 - SQL postgres.
-
-- HTML. [Итоговая работа по верстке](https://github.com/darkstrog/layout_final_paper)
 
 - C#, MVVM, XAML, .net core 3.1 [Менеджер контактов vcf](https://github.com/darkstrog/VCardManager)
 
 - C#, MVC, .net core 2.2[Тестовое задание](https://github.com/darkstrog/Test)
+
+- Python, vk_api [Репозиторий с дипломной работой](https://github.com/darkstrog/PyDiploma)
+
+- HTML. [Итоговая работа по верстке](https://github.com/darkstrog/layout_final_paper)
 
 
 ### Диплом Нетологии
